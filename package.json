@@ -11,8 +11,5 @@
     "logos"
   ],
   "author": "ralptheninja <ralphtheninja@riseup.net>",
-  "license": "MIT",
-  "dependencies": {
-    "send": "^0.10.1"
-  }
+  "license": "MIT"
 }
