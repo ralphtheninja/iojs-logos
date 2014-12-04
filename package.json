@@ -1,0 +1,18 @@
+{
+  "name": "iojs-logos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "io.js",
+    "logos"
+  ],
+  "author": "ralptheninja <ralphtheninja@riseup.net>",
+  "license": "MIT",
+  "dependencies": {
+    "send": "^0.10.1"
+  }
+}
