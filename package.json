@@ -10,6 +10,7 @@
     "io.js",
     "logos"
   ],
+  "homepage": "https://github.com/ralphtheninja/iojs-logos",
   "author": "ralptheninja <ralphtheninja@riseup.net>",
   "license": "MIT"
 }
